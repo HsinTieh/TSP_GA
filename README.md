@@ -15,7 +15,7 @@
 >![GITHUB](image/capture.PNG) <br>
 >探討擷取線段長與收斂速度關係 <br>
 
->![GITHUB](image/selection rate.PNG) <br>
+>![GITHUB](image/selection%20rate.PNG) <br>
 >探討篩選率與收斂速度關係 <br>
 
 >![GITHUB](image/limit.PNG) <br>
